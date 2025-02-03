@@ -178,6 +178,10 @@ Esquema do circuito elétrico
 
 ![Texto alternativo](/doc/temp_ext.jpeg "Tela da Temperatura Externa")
 
+<p>Tela da Temperatura Interna</p>
+
+![Texto alternativo](/doc/temp_int.jpeg "Tela da Temperatura Interna")
+
 <p>Tela da Umidade do Ar</p>
 
 ![Texto alternativo](/doc/04.png "Tela da Umidade do Ar")
