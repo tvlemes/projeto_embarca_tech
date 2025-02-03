@@ -158,7 +158,7 @@ Abaixo temos o fluxograma do sistema.
 ![Texto alternativo](/doc/fluxograma_url_codigo.png "Fluxograma")
 
 <!-- esquemático -->
-### Esquemático
+### Esquemático 
 
 Esquema do circuito elétrico
 ![Texto alternativo](/doc/Esquematico.PNG "Fluxograma")
