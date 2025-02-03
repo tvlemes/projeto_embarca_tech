@@ -70,7 +70,7 @@ Abaixo temos uma imagem do kit:
 <!-- sistema-de-arquivos -->
 ### Sistema de Arquivos
 
-![Texto alternativo](/doc/arquivos.PNG "Arquivos")
+![Texto alternativo](/doc/arquivos.png "Arquivos")
 
 O projeto é composto pelos seguintes arquivos:
  
